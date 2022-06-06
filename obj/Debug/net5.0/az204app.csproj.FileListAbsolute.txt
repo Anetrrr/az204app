@@ -1,0 +1,17 @@
+/Users/anetorataga/Desktop/activeDirectory/az204app/obj/Debug/net5.0/az204app.csproj.AssemblyReference.cache
+/Users/anetorataga/Desktop/activeDirectory/az204app/obj/Debug/net5.0/az204app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anetorataga/Desktop/activeDirectory/az204app/obj/Debug/net5.0/az204app.AssemblyInfoInputs.cache
+/Users/anetorataga/Desktop/activeDirectory/az204app/obj/Debug/net5.0/az204app.AssemblyInfo.cs
+/Users/anetorataga/Desktop/activeDirectory/az204app/obj/Debug/net5.0/az204app.csproj.CoreCompileInputs.cache
+/Users/anetorataga/Desktop/activeDirectory/az204app/bin/Debug/net5.0/az204app.deps.json
+/Users/anetorataga/Desktop/activeDirectory/az204app/bin/Debug/net5.0/az204app.runtimeconfig.json
+/Users/anetorataga/Desktop/activeDirectory/az204app/bin/Debug/net5.0/az204app.runtimeconfig.dev.json
+/Users/anetorataga/Desktop/activeDirectory/az204app/bin/Debug/net5.0/az204app.dll
+/Users/anetorataga/Desktop/activeDirectory/az204app/bin/Debug/net5.0/ref/az204app.dll
+/Users/anetorataga/Desktop/activeDirectory/az204app/bin/Debug/net5.0/az204app.pdb
+/Users/anetorataga/Desktop/activeDirectory/az204app/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/anetorataga/Desktop/activeDirectory/az204app/obj/Debug/net5.0/az204app.csproj.CopyComplete
+/Users/anetorataga/Desktop/activeDirectory/az204app/obj/Debug/net5.0/az204app.dll
+/Users/anetorataga/Desktop/activeDirectory/az204app/obj/Debug/net5.0/ref/az204app.dll
+/Users/anetorataga/Desktop/activeDirectory/az204app/obj/Debug/net5.0/az204app.pdb
+/Users/anetorataga/Desktop/activeDirectory/az204app/obj/Debug/net5.0/az204app.genruntimeconfig.cache
